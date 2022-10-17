@@ -33,13 +33,13 @@ I am currently a master candidate at Shanghai Normal University. My research foc
 
 * **Wang, G.**, Wang, H., & Wang, L. (2022). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. *Frontiers in Psychology*. https://doi.org/10.3389/fpsyg.2022.1024147
 
-* **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L. (Accepted). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920 *Scientometrics*.
+* **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L. (Accepted). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. *Scientometrics*.
 
 * Wang, H., **Wang, G.**, Wang, N., & Wang, L. (under review). Linguistic complexity differences in EFL and ESL learners’ writings: An information-theoretic approach. *Assessing Writing*. 
 
 
 ## Research Projects
-Chief investigator (2022/06-2022/12). Project title: A Corpus-based analysis of syntactic complexity measures in the discussion part of the academic writing of Chinese EFL Master Students. Founder: Shanghai Normal University. ¥ 800. (in progress)
+Chief investigator (2022/06-2022/11). Project title: A Corpus-based analysis of syntactic complexity measures in the discussion part of the academic writing of Chinese EFL Master Students. Founder: Shanghai Normal University. ¥ 800. 
 
 ## Research Techniques and Skills
 R programming, Bibliometric analysis, Excel, Word
