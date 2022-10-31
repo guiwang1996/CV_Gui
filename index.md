@@ -29,11 +29,11 @@ I am currently a master candidate at Shanghai Normal University. My research foc
 * 2017 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1,000)
 
 ## Publications
-* **Wang, G.**, Wang, H., & Wang, L. (2022). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. *Frontiers in Psychology*. [**SSCI**, **JCR-Q1**; Impact factor=**4.232**] https://doi.org/10.3389/fpsyg.2022.1024147
+* **Wang, G.**, Wang, H., & Wang, L. (2022). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. *Frontiers in Psychology*. https://doi.org/10.3389/fpsyg.2022.1024147
 
-* **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L. (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. *Scientometrics*. [**SSCI**, **JCR-Q2**; Impact factor=**3.801**] https://doi.org/10.1007/s11192-022-04550-z
+* **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L. (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. *Scientometrics*. https://doi.org/10.1007/s11192-022-04550-z
 
-* **Wang, G.**, Wang, H., & Wang, L. (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. *Journal of Hospitality and Tourism Insights*, ahead-of-print(ahead-of-print). [**ESCI**] https://doi.org/10.1108/jhti-09-2021-0260
+* **Wang, G.**, Wang, H., & Wang, L. (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. *Journal of Hospitality and Tourism Insights*, ahead-of-print(ahead-of-print). https://doi.org/10.1108/jhti-09-2021-0260
 
 * Wang, H., **Wang, G.**, Wang, N., & Wang, L. (under review). Linguistic complexity differences in EFL and ESL learners’ writings: An information-theoretic approach. *International Journal of Applied Linguistics*. 
 
