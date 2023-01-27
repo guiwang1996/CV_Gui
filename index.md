@@ -10,6 +10,7 @@ I am currently a master candidate at Shanghai Normal University. My research foc
 
 ## Education
 2020-2023, Shanghai Normal University, China
+
 * Degree: Master of Art in Foreign Linguistics and Applied Linguistics
 * GPA: 3.10/4.00; 84.16/100
 * Major Courses: Corpus Linguistics, Discourse Research, Pragmatics
@@ -37,9 +38,14 @@ I am currently a master candidate at Shanghai Normal University. My research foc
 
 * Wang, H., **Wang, G.**, Wang, N., & Wang, L. (under review). Linguistic complexity differences in EFL and ESL learners’ writings: An information-theoretic approach. *International Journal of Applied Linguistics*. 
 
+## **Conferences and Forums**
+
++ **Wang, G.** (2021, May 16). Research trends in tourism and hospitality from 1991 to 2020: An integrated approach of corpus linguistics and bibliometrics. Paper presented at *The 12th Annual Conference of the Professional Committee of Educational Linguistics*, Shanghai Jiao Tong University. Shanghai, China.
++ **Wang, G.** (2022, November 20). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. Paper presented at *The 1st International Symposium on Data Science and Second Language Research*. Ningbo, China.
 
 ## Research Projects
+
 Chief investigator (2022/06-2022/11). Project title: A Corpus-based analysis of syntactic complexity measures in the discussion part of the academic writing of Chinese EFL Master Students. Founder: Shanghai Normal University. ¥ 800. 
 
 ## Research Techniques and Skills
-R programming, Bibliometric analysis, Excel, Word
+*R* programming, Bibliometric analysis, Excel, Word
